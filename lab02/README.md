@@ -1,11 +1,9 @@
 # Modelo para Apresentação do Lab02 - Data Flow & Mensagens
 
 ## Tarefa sobre catálogo de componentes
-
 > [Catálogo de componentes](notebook/components-01-catalog.ipynb)
 
 ## Tarefa Web Components 1
-> Escreva aqui o código da sua composição de componentes Web, como mostra o exemplo a seguir:
 ``` html
 <dcc-trigger label="Mundo"
              action="noticia/mundo/politica"
